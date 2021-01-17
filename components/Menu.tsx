@@ -57,7 +57,8 @@ export const Menu = ({ className }: MenuProps) => (
         <ul className="text-2xl text-gray-800">
           <li>
             <span className="mr-2">🍫</span>
-            Choomba Churros with decadent chocolate dipping sauce
+            Dave's famously tasteless Churros with decadent chocolate dipping
+            sauce
           </li>
         </ul>
       </section>
