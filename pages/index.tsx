@@ -6,7 +6,6 @@ const Home = () => {
     <div className="min-h-screen flex flex-col">
       <Head>
         <title>Good Dave Deli</title>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <header className="font-display">
